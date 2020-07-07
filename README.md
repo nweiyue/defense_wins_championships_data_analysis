@@ -2,7 +2,7 @@
 "Offense wins games, defense wins championships." 
 This is a simple data analysis projectto figure out if this famous quote holds truth in it.
 
-#Overview
+# Overview
 I made use of statistics(specifically ORtg and DRtg) of NBA teams from post-merger era to the 
 2018-2019 season to see if having a better offense or defense helps in teams winning championships.
 
