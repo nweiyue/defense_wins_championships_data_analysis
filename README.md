@@ -12,10 +12,10 @@ I made use of statistics(specifically ORtg and DRtg) of NBA teams from post-merg
 - Jupyter Notebook
 
 # What Ive learned
--Data Extraction
--Data Cleaning
--Data Anlysis
--Data Visualisation
+- Data Extraction
+- Data Cleaning
+- Data Anlysis
+- Data Visualisation
 
 ## Credit
 - [Ngoh Wei Yue](https://github.com/nweiyue)
