@@ -1,6 +1,6 @@
 # Data Analysis on Offense vs Defense in the NBA
 "Offense wins games, defense wins championships." 
-This is a simple data analysis projectto figure out if this famous quote holds truth in it.
+This is a simple data analysis project to figure out if this famous quote holds truth in it.
 
 ## Overview
 I made use of statistics(specifically ORtg and DRtg) of NBA teams from post-merger era to the 
