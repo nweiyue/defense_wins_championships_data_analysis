@@ -1,4 +1,4 @@
-# Offense wins games, defense wins championships 
+# Offense win games, defense win championships 
 <img src="images/champion_thumbnail.png" width=400px height=350px align="center">
 
 A data analytics project to uncover the truth behind this widely spoken maxim.
